@@ -17,7 +17,7 @@ public class dataManager {
 
     private final String url = "jdbc:postgresql://localhost:5432/atmdata";
     private final String user = "postgres";
-    private final String password = "NorthBrunswick1685!";
+    private final String password = "";
 
     // Method to connect to database prior to any manipulations
 
