@@ -6,3 +6,10 @@ In this project I used Python as well as the Bokeh and Pandas libraries.
 
 <h3>Data Source:</h3>
 Data is from https://www.irs.gov/statistics/soi-tax-stats-county-data
+
+
+<h3>What I Learned</h3>
+
+- Download and parse data
+- Parse csv files
+- Numpy, Pandas, Bokeh
