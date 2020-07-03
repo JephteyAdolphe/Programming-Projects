@@ -5,4 +5,4 @@ Operations include addition, subtraction, multiplication, determinant, transpose
 <h3>What I Learned</h3>
 
 - How to work with 2D arrays in C++
-- How to implement pointers into a program
+- How to implement pointers in a program
